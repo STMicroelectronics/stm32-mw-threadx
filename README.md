@@ -1,6 +1,6 @@
 # Middleware ThreadX Component
 
-![latest tag](https://img.shields.io/github/v/tag/STMicroelectronics/stm32-mw-threadx.svg?color=green)
+![tag](https://img.shields.io/badge/tag-v6.4.0_260327-brightgreen.svg)
 
 ## Overview
 The Middleware ThreadX component is a STM32 tailored fork of the [AzureRTOS ThreadX](https://github.com/eclipse-threadx/threadx).
@@ -17,5 +17,4 @@ Please refer to the release note in the repository of the STM32Cube **firmware**
 
 ## Troubleshooting
 Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) guide.
-
 
